@@ -8,7 +8,7 @@
 
 ## Package Status
 
-- Pipeline state: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline state: `UPLOADED`
 - Release boundary: public derived-artifact package.
 - Package decision: no runnable source-code package was available in the inspected local folders. This package preserves the published paper reference and the paper-era Figure 2 source document in original and modernized formats.
 
@@ -38,7 +38,7 @@ No blocking work remains for this package. A future runnable recreation could be
 
 Generated: 2026-05-21 20:04:48 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
